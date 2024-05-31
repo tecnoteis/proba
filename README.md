@@ -6,6 +6,7 @@ Utilizaremos un sensor DHT11 que mide temperatura e humidade para facer funciona
 Esta vez a automatización farémola completamente cos nodos de Node-Red, de tal maneira que cando a temperatura ou a humidade pasen dun determinado valor o relé activarase, facendo que o ventilador comece a funcionar.
 O circuíto e o fluxo son os das imaxes.
 
+
 Material necesario:
     • ESP32 WROOM + shield 
     
